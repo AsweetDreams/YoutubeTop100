@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DF8DC9904771D1CB013E6601C7D8E0B7F75F18B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "72d253a3-f578-49e8-93a1-c4f3578b91ff++7542" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DF8DC9904771D1CB013E6601C7D8E0B7F75F18B1" : 0,
+    "72d253a3-f578-49e8-93a1-c4f3578b91ff++7542" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "040F1C9B-A6F0-4ACD-AA36-3988AA284B1F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DF8DC9904771D1CB013E6601C7D8E0B7F75F18B1" : "youtube%203\/",
+    "72d253a3-f578-49e8-93a1-c4f3578b91ff++7542" : "youtube%203\/Project_Techkid_Gen2\/AFNetworking\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MusicTube",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MusicTube.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/kinioslab.svn.cloudforge.com\/dkgroup",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72d253a3-f578-49e8-93a1-c4f3578b91ff++7542"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/gaxxanh\/youtube54.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF8DC9904771D1CB013E6601C7D8E0B7F75F18B1"
+    }
+  ]
+}
